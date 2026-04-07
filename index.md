@@ -3,7 +3,7 @@ layout: default
 title: Marcel Artioli
 ---
 
-## Bem-vindo! Benvenuto! Welcome! Wilkommen!
+## Welcome! Bem-vindo! Benvenuto! Wilkommen!
 
 I am a PhD Researcher in Transnational Governance at [Scuola Normale Superiore and Scuola Superiore Sant'Anna](https://www.sns.it/en/persona/marcel-artioli), Florence. With over a decade of experience in agrarian and rural development, I served as State Coordinator for Brazil’s National Land Credit Program (PNCF) at the State of São Paulo and as an analyst for the São Paulo Land Institute (ITESP). My academic expertise in International Political Economy (IPE) and environmental policy is supported by a master’s in international relations from the Graduate Program in International Relations San Tiago Dantas (Unesp, Unicamp, PUC-SP), Brazil, and a bachelor degree in International Relations from São Paulo State University (Unesp). 
 
