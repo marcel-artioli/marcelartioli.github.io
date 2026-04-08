@@ -8,14 +8,14 @@ body {
   font-family: 'Fira Sans', sans-serif;
   font-size: 14px;
   line-height: 1.5;
-  background-color: #f2eae7;
-  color: #333;
+  background-color: #f0f0f0;
+  color: #00008b;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Fira Sans', sans-serif;
   font-weight: 500;
-  color: #212121;
+  color: #00008b;
   line-height: 1.1;
   margin: 0 0 20px;
 }
@@ -31,31 +31,31 @@ p, ul, ol, table, pre, dl {
 
 /* === LINKS === */
 a {
-  color: #556b2f; /* olive green */
+  color: #0040ff; /* A brighter blue */
   text-decoration: none;
 }
 
 a:hover {
-  color: #556b2f;
+  color: #0040ff;
   text-decoration: none;
 }
 
 section a {
-  color: #556b2f;
+  color: #0040ff;
 }
 
 section a:hover {
-  color: #556b2f;
+  color: #0040ff;
 }
 
 /* === CUSTOM TITLE COLOR === */
 .site-title a {
-  color: #556b2f;
+  color: #0040ff;
   text-decoration: none;
 }
 
 .site-title a:hover {
-  color: #556b2f;
+  color: #0040ff;
   text-decoration: none;
 }
 
