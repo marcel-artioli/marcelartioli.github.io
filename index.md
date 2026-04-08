@@ -11,4 +11,6 @@ My doctoral research examines the roles of state and non-state actors in steerin
 
 Recently, I have expanded my international profile through the German Institute of Development and Sustainability (IDOS), serving as a Managing Global Governance Fellow (2022) and a Visiting Guest PhD Researcher (2025).
 
+I’m excited to share that I will be joining the Institute for Political Science at the University of Münster as a Visiting PhD Researcher for the next six months! I’m looking forward to collaborating with colleagues and advancing my research in this vibrant academic environment
+
 If this resonates, I’d love to chat. You can reach me at [marcel.artioli@sns.it](mailto:marcel.artioli@sns.it)
