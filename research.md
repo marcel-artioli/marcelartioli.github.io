@@ -14,7 +14,7 @@ layout: default
 ### Working Papers, Presentations and Op-Ed Articles
 
 - **Brazil’s Environmental Foreign Policy in the COP30: the limits of overstretching**. Working paper presented at EELISA’s Network Workshop "Sustainability in the Age of Polycrisis: Prospects, Contradictions, and Futures", Florence, Italy, 24 March 2026.
-- **Exploring 'Forever': Assessing the viability of the new Tropical Forest Forever Facility** Joint with Nathalia Dreyer and Jean Carlo Rodríguez-de-Francisco. [*The Current Column - The German Institute for Development and Sustainability(IDOS).]([https://funag.gov.br/biblioteca-nova/produto/loc_pdf/1015/1/brazil-india_relations:_beyond_the_70_years](https://www.idos-research.de/en/the-current-column/article/exploring-forever-assessing-the-viability-of-the-new-tropical-forest-forever-facility/)
+- **Exploring 'Forever': Assessing the viability of the new Tropical Forest Forever Facility** Joint with Nathalia Dreyer and Jean Carlo Rodríguez-de-Francisco. [*The Current Column - The German Institute for Development and Sustainability(IDOS)](https://www.idos-research.de/en/the-current-column/article/exploring-forever-assessing-the-viability-of-the-new-tropical-forest-forever-facility/) 
 - **Brazil’s Environmental Foreign Policy in the G20 Summit: Constraints and Contradictions**. Working paper presented at the 18th Pan-European Conference on International Relations, European International Studies Association (EISA), University of Bologna, 25-29 August 2025.
 
 ### Book Chapters
